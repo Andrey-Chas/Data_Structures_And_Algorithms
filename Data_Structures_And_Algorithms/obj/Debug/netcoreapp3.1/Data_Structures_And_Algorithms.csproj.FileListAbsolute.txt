@@ -1,0 +1,14 @@
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\Data_Structures_And_Algorithms\bin\Debug\netcoreapp3.1\Data_Structures_And_Algorithms.exe
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\Data_Structures_And_Algorithms\bin\Debug\netcoreapp3.1\Data_Structures_And_Algorithms.deps.json
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\Data_Structures_And_Algorithms\bin\Debug\netcoreapp3.1\Data_Structures_And_Algorithms.runtimeconfig.json
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\Data_Structures_And_Algorithms\bin\Debug\netcoreapp3.1\Data_Structures_And_Algorithms.runtimeconfig.dev.json
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\Data_Structures_And_Algorithms\bin\Debug\netcoreapp3.1\Data_Structures_And_Algorithms.dll
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\Data_Structures_And_Algorithms\bin\Debug\netcoreapp3.1\Data_Structures_And_Algorithms.pdb
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\Data_Structures_And_Algorithms\obj\Debug\netcoreapp3.1\Data_Structures_And_Algorithms.csproj.AssemblyReference.cache
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\Data_Structures_And_Algorithms\obj\Debug\netcoreapp3.1\Data_Structures_And_Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\Data_Structures_And_Algorithms\obj\Debug\netcoreapp3.1\Data_Structures_And_Algorithms.AssemblyInfoInputs.cache
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\Data_Structures_And_Algorithms\obj\Debug\netcoreapp3.1\Data_Structures_And_Algorithms.AssemblyInfo.cs
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\Data_Structures_And_Algorithms\obj\Debug\netcoreapp3.1\Data_Structures_And_Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\Data_Structures_And_Algorithms\obj\Debug\netcoreapp3.1\Data_Structures_And_Algorithms.dll
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\Data_Structures_And_Algorithms\obj\Debug\netcoreapp3.1\Data_Structures_And_Algorithms.pdb
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\Data_Structures_And_Algorithms\obj\Debug\netcoreapp3.1\Data_Structures_And_Algorithms.genruntimeconfig.cache
