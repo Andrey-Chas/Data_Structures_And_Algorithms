@@ -44,10 +44,7 @@ namespace Collections
         public static void Output<T>(IDictionary<T, int> dictionaryOfOccurrences, List<T> collcetion)
         {
             Console.WriteLine("Elements counted from the following array:");
-            for (int i = 0; i < collcetion.Count; i++)
-            {
-                Console.Write($"{collcetion[i]} ");
-            }
+            Console.WriteLine(string.Join(", ", collcetion));
 
             Console.WriteLine();
 
