@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qzB4NEOqkY3Hyz9haC/cL1reudtJ8Ps8vvnXtOi/Hk1FcXaWvMAVVNG5g3uMPKsrGFbh3fsSaK4o1BqF0bvKiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\диан\\source\\repos\\Data_Structures_And_Algorithms\\Advanced_Data_Structures\\Advanced_Data_Structures.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\диан\\.nuget\\packages\\softuni.wintellect.powercollections\\2.0.0\\softuni.wintellect.powercollections.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
