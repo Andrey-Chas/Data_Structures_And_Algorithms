@@ -1,0 +1,14 @@
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\CustomDataList\bin\Debug\netcoreapp3.1\CustomDataList.exe
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\CustomDataList\bin\Debug\netcoreapp3.1\CustomDataList.deps.json
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\CustomDataList\bin\Debug\netcoreapp3.1\CustomDataList.runtimeconfig.json
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\CustomDataList\bin\Debug\netcoreapp3.1\CustomDataList.runtimeconfig.dev.json
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\CustomDataList\bin\Debug\netcoreapp3.1\CustomDataList.dll
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\CustomDataList\bin\Debug\netcoreapp3.1\CustomDataList.pdb
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\CustomDataList\obj\Debug\netcoreapp3.1\CustomDataList.csproj.AssemblyReference.cache
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\CustomDataList\obj\Debug\netcoreapp3.1\CustomDataList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\CustomDataList\obj\Debug\netcoreapp3.1\CustomDataList.AssemblyInfoInputs.cache
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\CustomDataList\obj\Debug\netcoreapp3.1\CustomDataList.AssemblyInfo.cs
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\CustomDataList\obj\Debug\netcoreapp3.1\CustomDataList.csproj.CoreCompileInputs.cache
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\CustomDataList\obj\Debug\netcoreapp3.1\CustomDataList.dll
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\CustomDataList\obj\Debug\netcoreapp3.1\CustomDataList.pdb
+C:\Users\диан\source\repos\Data_Structures_And_Algorithms\CustomDataList\obj\Debug\netcoreapp3.1\CustomDataList.genruntimeconfig.cache
